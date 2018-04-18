@@ -1,42 +1,6 @@
-/*
-.img-thumbnail {
-    width:500px;
-    height:800px;
-    float:right;
+.second{
+    margin-top: 20px;
 }
-.hello {
-  font-size: 30px;
-  text-shadow: 10px;
-  display:block;
-  margin:10px;
-  text-align: justify;
-}
-.img-responsive{
-  width:500px;
-  height:500px;
-  float:left;
-}
-#wrapper{
-    margin-left:auto;
-    margin-right:auto;
-    height:auto;
-    width:auto;
-
-}
-#inner1{
-    float:left;
-    margin-top: 60px;
-    margin-bottom: 60px;
-}
-#inner2{
-    float:left;
-    margin-top: 60px;
-    margin-bottom: 60px;
-}
-.jumbotron {
-  text-shadow: 2px 2px 4px #000000;
-}
-*/
 .first{
     margin-bottom: 20px;
 }
